@@ -5,7 +5,7 @@ Um aplicativo para adicionar, visualizar e gerenciar avaliações de livros.
 ## Instalação
 
 Use o gerenciador de dependências pipenv [pipenv](https://pipenv.pypa.io/en/latest/) 
-para instalar as dependências da aplicação Avalia Livro.
+para instalar as dependências do Avalia Livro.
 
 ```bash
 pipenv install --dev
